@@ -1,7 +1,7 @@
 #Vite & Gourmand#
 
 ##Projet en cours de réalisation par :##
-Maëlle Sadoun
+####Maëlle Sadoun####
 
 ##Technologies##
 
